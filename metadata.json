@@ -1,0 +1,7 @@
+{
+  "name": "MultiChWi",
+  "description": "A sophisticated multi-modal AI chat application with independent conversation memories, winter-themed aesthetics, and support for text, images, video, and voice inputs using Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
